@@ -39,4 +39,4 @@ In [blister-payloads-cobaltstrike-iocs.csv](iocs/blister-payloads-cobaltstrike-i
 
 In [blister-payloads-mythic-iocs.csv](iocs/blister-payloads-mythic-iocs.csv), we list the command-and-control domain and the payload SHA256 hash that is linked to it. Similar to the Cobalt Strike beacons, you can use this hash to find the corresponding Blister sample that dropped it, using [blister-samples.json](blister-samples.json).
 
-Furthermore, we included BlisterMythic C2 servers in [blister-mythic-c2s.csv](iocs/blister-mythic-c2s.csv). And our YARA rules in [blister.yara](yara/blister.yara)
+Furthermore, we included BlisterMythic C2 servers in [blister-mythic-c2s.csv](iocs/blister-mythic-c2s.csv). And our YARA rules in [rules.yara](yara/rules.yara)
